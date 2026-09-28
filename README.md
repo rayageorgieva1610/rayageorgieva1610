@@ -27,6 +27,20 @@ So far, I've:
 
 I'm still working on the project and will add more as I learn.
 
+### Undertale Save Analyzer
+
+An older Python project that I decided to post. It has to do with one of my most favourite games ever, aka Undertale. It reads the game's save files and extracts information about the current playthrough.
+
+It can:
+
+- read and process the raw `file0` save
+- extract player stats like LV, HP, EXP, gold and kills
+- track kill counters across different areas
+- analyze route-related game data
+- identify Pacifist-compatible, Neutral and Genocide progression
+
+I might come back to this one and expand the route analysis eventually.
+
 ## Languages
 
 - Bulgarian
