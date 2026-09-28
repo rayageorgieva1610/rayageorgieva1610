@@ -1,7 +1,6 @@
-# Hi, I'm Raya 👋
+# Hi, I'm Raya
 
-I'm a Data Science student in Eindhoven University of Technology, currently building my skills in programming, statistics, data analysis and machine learning.
-I use GitHub to document projects I'm working on, both for university and in my free time.
+I'm a Data Science student at Eindhoven University of Technology. I'm currently working on improving my skills in programming, statistics, data analysis and machine learning. I use GitHub to keep track of projects I work on both for university and in my free time.
 
 ## Currently learning
 
@@ -14,16 +13,19 @@ I use GitHub to document projects I'm working on, both for university and in my 
 
 ## Projects
 
-### 🎮 Video Game Sales Analysis
+### Video Game Sales Analysis
 
-A small data analysis project where I'm using Python and pandas to explore a video game sales dataset.
+A project I'm working on to practice data analysis with Python using a video game sales dataset.
 
-So far, I've worked on:
-- exploring and filtering the dataset
-- finding the best-selling games by year
-- creating visualizations with matplotlib
+So far, I've:
 
-I'm planning to keep expanding the project as I learn more.
+- explored and filtered the dataset
+- found the top 5 best-selling games for different years
+- created visualizations with matplotlib
+- compared global video game sales between different years
+- separated the project into different stages for exploration, visualization and comparison
+
+I'm still working on the project and will add more as I learn.
 
 ## Languages
 
@@ -39,4 +41,4 @@ I'm planning to keep expanding the project as I learn more.
 
 ---
 
-The grind continues
+The grind continues.
